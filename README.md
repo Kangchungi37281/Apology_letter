@@ -8,3 +8,5 @@
 2026년 4월 1일:이번 건 내가 저지른 것은 아니지만, 기록해야 할듯. 요즘 언더테일이랑 델타룬에 관심이 있어서 아침에 Undertale text box generator와 undertale overworld mockup generator를 사용했다 처음에는 약한 오류 메시지가 반복적으로 나오다가 8시에 다시 와보니 결국 demirramon.com에 접속이 되지 않는다 기다려고 똑같다 20시 44분인 지금은 여전히 접속불능이다 6월 기준 해결된 듯 하다
 
 2026년 6월 8일:[사이트](https://github.com/HollowXtra/Advanced-Storm-Inc) 탐험 후 코드 복제 중 실수로 해당 [커밋](https://github.com/HollowXtra/Advanced-Storm-Inc/commit/1306d5e925e9f134999123926bc99edf4d00f787)에서 플러스 버튼을 누르는 바람에 큰 일이 터져버림. 제출은 누르지 않았음. 문제를 일으켜서 죄송합니다.
+
+2026년 6월 25일:어느 채널에서 알려준 월드컵 사이트에서 랭킹을 보려다가 시작 버튼을 눌러버렸음 다행히 오류가 떠서 시작되지는 않았음 휴 다행이다... ~~설마 그 수푼핑 채널은 아니겠지~~
